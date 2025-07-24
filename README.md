@@ -1,5 +1,5 @@
-# CrickTrack
 # CrickTrack 🏏
+
 
 CrickTrack is an in-progress iOS app designed to help cricket players analyze their match performance, emotions, and long-term progress.
 
